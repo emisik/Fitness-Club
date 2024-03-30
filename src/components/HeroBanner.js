@@ -26,7 +26,7 @@ const HeroBanner = () => {
         fontSize="22px"
         fontFamily="Alegreya"
         lineHeight="35px"
-        mb={3}
+        mb={4}
       >
         Check out the most effective exercises personalized to you
       </Typography>
